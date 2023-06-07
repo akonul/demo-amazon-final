@@ -1,3 +1,5 @@
+package com.amazon.example.demoamazon.config;
+
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 
